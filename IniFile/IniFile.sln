@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IniFile", "IniFile\IniFile.vcproj", "{2A4B6F91-A9FC-4D08-BEED-90B9E662314E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestIniFile", "TestIniFile\TestIniFile.vcproj", "{4650924B-8977-4B6E-A673-C5AA4BF950F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A4B6F91-A9FC-4D08-BEED-90B9E662314E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2A4B6F91-A9FC-4D08-BEED-90B9E662314E}.Debug|Win32.Build.0 = Debug|Win32
+		{2A4B6F91-A9FC-4D08-BEED-90B9E662314E}.Release|Win32.ActiveCfg = Release|Win32
+		{2A4B6F91-A9FC-4D08-BEED-90B9E662314E}.Release|Win32.Build.0 = Release|Win32
+		{4650924B-8977-4B6E-A673-C5AA4BF950F0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4650924B-8977-4B6E-A673-C5AA4BF950F0}.Debug|Win32.Build.0 = Debug|Win32
+		{4650924B-8977-4B6E-A673-C5AA4BF950F0}.Release|Win32.ActiveCfg = Release|Win32
+		{4650924B-8977-4B6E-A673-C5AA4BF950F0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
